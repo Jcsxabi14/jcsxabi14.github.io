@@ -1,0 +1,9 @@
+.impar{
+    background-color: green;
+    text-align: end;
+
+}
+.par{
+    background-color: yellow;
+    text-align: start;
+}
