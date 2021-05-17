@@ -8,9 +8,10 @@ function gestionarFicheroXML(xmlDoc){
 				capaVacia.innerHTML = capaVacia.innerHTML + "<p class='par'>" + libros[i].textContent + "</p>"
 	
 }
-function cargarfichero()
+
+setInterval(cargarfichero, 2000)
+function CargarFichero()
 {
  	(loadDocA("libros.xml","xml")
 	 }
-)
-	setInterval(cargarfichero, 2000)
+	
