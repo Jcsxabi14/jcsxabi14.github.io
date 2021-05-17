@@ -12,6 +12,6 @@ function gestionarFicheroXML(xmlDoc){
 setInterval(CargarFichero, 2000)
 function CargarFichero()
 {
- 	(loadDocA("libros.xml","xml")
-	 }
+ 	loadDocA("libros.xml","xml")
+}
 	
