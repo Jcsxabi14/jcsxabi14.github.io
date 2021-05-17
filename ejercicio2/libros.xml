@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <busquedaLibros>
-	<libreria>
+	<Dialogo>
 		<conver>
 			<p>Hola</p>
 		</conver>
@@ -33,5 +33,5 @@
 		</conver>
 
 		
-	</libreria>
+	</Dialogo>
 </busquedaLibros>
