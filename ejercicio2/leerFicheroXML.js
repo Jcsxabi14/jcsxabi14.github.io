@@ -1,8 +1,9 @@
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
 	let libros = xmlDoc.querySelectorAll("conver")
-	 capaVacia.innerHTML = ""
+	
 	for(let i=0; i<libros.length; i++)
+		 capaVacia.innerHTML = ""
 		if (i%2==0) 
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='impar'>" + libros[i].textContent + "</p>"
 			else
