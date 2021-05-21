@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<busquedaLibros>
+	<Dialogo>
+		<conver>
+			<peli>ET</peli>
+			<director>hola</director>
+			<fecha>1998</fecha>
+		</conver>
+		<conver>
+			<peli>superman</peli>
+			<director>adios</director>
+			<fecha>1999</fecha>
+		</conver>
+				
+		
+
+		
+	</Dialogo>
+</busquedaLibros>
